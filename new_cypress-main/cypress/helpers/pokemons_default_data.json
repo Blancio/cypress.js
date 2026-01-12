@@ -1,0 +1,9 @@
+{
+	"login":"user@login.ru",
+	"password":"user_password",
+	"user_name" : "USER NAME",
+	"card_number" : "5555555544444442",
+	"card_date" : "1028",
+	"cvv": "125",
+	"sms_code" : "56456"
+}
